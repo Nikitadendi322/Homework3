@@ -109,7 +109,7 @@ public class Main {
     var totalNumberOfHoursWorkedEmployee = (additionalWorkers + totalEmployees);
     System.out.println(totalNumberOfHoursWorkedEmployee);
     var totalNumberOfHoursWorked1Employee1 = (totalNumberOfHoursWorkedEmployee / totalNumberOfHoursWorked1Employee);
-    System.out.println("Если в компании работает "   + totalNumberOfHoursWorkedEmployee + " человека то всего " + totalNumberOfHoursWorked1Employee1 + " часов работы может быть поделено между сотрудниками!");
+    System.out.println("Если в компании работает "   + totalNumberOfHoursWorkedEmployee + " человека то всего " + totalNumberOfHoursWorked1Employee1 + " часов работы может быть поделено между сотрудниками");
 
 
 
